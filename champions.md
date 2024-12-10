@@ -26,7 +26,6 @@
 ![Gangplank](images/champions/Gangplank.jpg)
 ![Garen](images/champions/Garen.jpg)
 ![Gragas](images/champions/Gragas.jpg)
-![Graves](images/champions/Graves.jpg)
 ![Hecarim](images/champions/Hecarim.jpg)
 ![Irelia](images/champions/Irelia.jpg)
 ![Jax](images/champions/Jax.jpg)
@@ -125,3 +124,4 @@
 ![Karma](images/champions/Karma.jpg)
 ![Olaf](images/champions/Olaf.jpg)
 ![Elise](images/champions/Elise.jpg)
+![Graves](images/champions/Graves.jpg)
